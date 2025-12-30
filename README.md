@@ -16,7 +16,7 @@ A classic implementation of the **Minesweeper** game built with **Python** and t
 1. Ensure you have **Python 3.x** installed.
 2. Clone this repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/Minesweeper-Python.git](https://github.com/YOUR_USERNAME/Minesweeper-Python.git)
+   git clone https://github.com/eranmal/Minesweeper-Python.git
 3. Run the application:
    ```bash
    python Minesweeper.py
